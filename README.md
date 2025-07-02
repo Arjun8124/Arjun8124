@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **bootstrap and react js**
 
+- 👨‍💻 All about me is available at <a href="https://portfolio-website-three-teal-70.vercel.app/"> my website </a>
+
 - 📫 How to reach me **gupta.arjun.8124@gmail.com**
 
 - ⚡ Fun fact **I like to game**
