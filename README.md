@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun8124&show_icons=true&locale=en&layout=compact" alt="arjun8124" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun8124&" alt="arjun8124" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun8124" alt="arjun8124" /></p>
