@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun8124&show_icons=true&locale=en&layout=compact" alt="arjun8124" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=arjun8124](https://github-readme-streak-stats.herokuapp.com/?user=arjun8124)" alt="arjun8124" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arjun8124&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
