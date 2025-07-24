@@ -1,4 +1,4 @@
-<h1 class="display-3 fw-bold text-info" align="center">Hi 👋, I'm Arjun Gupta</h1>
+<h1 align="center">Hi 👋, I'm Arjun Gupta</h1>
 <h3 align="center">A frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun8124&label=Profile%20views&color=0e75b6&style=flat" alt="arjun8124" /> </p>
