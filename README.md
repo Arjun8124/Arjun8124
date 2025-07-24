@@ -29,6 +29,3 @@
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun8124&show_icons=true&locale=en&layout=compact" alt="arjun8124" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=arjun8124&show_icons=true&locale=en" alt="arjun8124" />
 </div>
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arjun8124"/></a>
-</p>
