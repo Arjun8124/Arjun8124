@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **bootstrap and react js**
 
-- 👨‍💻 All about me is available at <a href="https://portfolio-website-three-teal-70.vercel.app/"> **my website** </a>
+- 👨‍💻 All about me is available at <a href="https://arjun8124.github.io/"> **my website** </a>
 
 - 📫 How to reach me **gupta.arjun.8124@gmail.com**
 
