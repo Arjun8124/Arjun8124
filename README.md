@@ -1,15 +1,23 @@
-<h1 align="center">Hi there, I'm Arjun Gupta 👋</h1>
+<!-- ══════════════════ HEADER BANNER ══════════════════ -->
+<a href="https://github.com/Arjun8124">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arjun%20Gupta&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20React%20%E2%80%A2%20FastAPI%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=18" alt="header" />
+</a>
 
+<!-- ══════════════════ TYPING SUBTITLE ══════════════════ -->
 <p align="center">
   <a href="https://github.com/Arjun8124">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%7C+FastAPI+%7C+PostgreSQL;Building+things+for+the+web;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Fullstack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%7C+FastAPI+%7C+PostgreSQL;Building+AI-powered+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- ══════════════════ BADGES ══════════════════ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arjun8124&label=Profile%20views&color=6c63ff&style=flat" alt="profile views" />
   <a href="https://github.com/Arjun8124?tab=followers">
     <img src="https://img.shields.io/github/followers/Arjun8124?label=Followers&style=flat&color=6c63ff" alt="followers" />
+  </a>
+  <a href="https://github.com/Arjun8124?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=6c63ff&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Arjun8124&style=flat" alt="repos" />
   </a>
 </p>
 
@@ -19,7 +27,7 @@
 
 - 🎓 Computer Science student at **GGSIPU**, New Delhi
 - 💻 Fullstack developer focused on **React.js**, **JavaScript/TypeScript**, **Python** & **FastAPI**
-- 🌱 Currently deepening my skills in **AI-powered apps** (LangGraph) and scalable backends
+- 🤖 Building **AI-powered apps** with LangGraph and scalable backends
 - 🛠️ I love turning ideas into clean, working products — from dashboards to chatbots
 - 🎮 When I'm not coding, you'll find me gaming
 - 📫 Reach me at **gupta.arjun.8124@gmail.com**
@@ -65,23 +73,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arjun8124&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Arjun's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun8124&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun8124&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun8124&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arjun8124&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arjun8124&theme=tokyonight" alt="Repos per language" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arjun8124&theme=tokyonight" alt="Most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arjun8124&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjun8124&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=Arjun8124&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -89,7 +98,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun8124&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun8124&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -121,7 +130,7 @@
   <a href="https://linkedin.com/in/arjun8124" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_.arrjunnn._" target="_blank">
+  <a href="https://instagram.com/_.arrjunnn._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/arjun8124" target="_blank">
@@ -143,3 +152,6 @@
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Arjun8124">Arjun8124</a> — thanks for stopping by!</i>
 </p>
+
+<!-- ══════════════════ FOOTER BANNER ══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
